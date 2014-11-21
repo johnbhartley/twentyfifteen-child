@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Twenty Fifteen Pizza Child
+ Theme URI:    http://example.com/twenty-fourteen-child/
+ Description:  Twenty Fourteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentyfifteen
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+body {
+	background-image: url(http://www.eatcu.com/original/d5a3498cfc9e53130b5f815ef44713b7_Jet.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
